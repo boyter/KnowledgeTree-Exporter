@@ -1,4 +1,7 @@
 # KnowledgeTree-Exporter
+
+[![Scc Count Badge](https://sloc.xyz/github/boyter/KnowledgeTree-Exporter/)](https://github.com/boyter/KnowledgeTree-Exporter/)
+
 Exporting Documents from KnowledgeTree 3.7.0.2
 
 See https://boyter.org/2015/09/exporting-documents-knowledgetree-3-7-0-2/ for details
